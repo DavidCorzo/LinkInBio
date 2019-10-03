@@ -1,0 +1,19 @@
+# img: "none"
+
+links:
+    - facebook:
+        enable: True
+        link: "https://www.facebook.com/davidgabriel.corzo"
+        description: "Facebook profile"
+    - twitter:
+        enable: True
+        link: "https://twitter.com/david52gabriel"
+        description: "My twitter profile"
+    - instagram:
+        enable: False
+        link: "https://www.instagram.com/david_gabriel_corzo/?hl=es-la"
+        description: "Instagram account"
+    - linkin:
+        enable: False
+        link: "https://www.linkedin.com/in/david-corzo-323660194/"
+        description: "LinkedIn Account"
